@@ -1,0 +1,9 @@
+I've put together this small app to move windows back to the reachable area which got off-screen or whose title bar is hidden under the menu bar.
+
+It is based on Apple's example app, UIElementInspector.
+
+You can download it here:
+
+http://home.max-weller.de/bring-window-home/
+
+
